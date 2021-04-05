@@ -2,7 +2,7 @@
 The objective of this project is to apply the content convered in the course to produce a powerful visual data driven narrative to provoke and prompt an action. The key to selecting a topic is to find a dataset related to a topic that the group is interested in. 
 
 ## Big Idea
-> As a graduating high school senior, I want to gain information about potential career paths so that I am confident with the major I pursue in college.
+___As a graduating high school senior, I want to gain information about potential career paths so that I am confident with the major I pursue in college.___
 
 We want to tell a story about how recent college graduates find a job. Whether that job is low paying or high paying. Did their degree help them secure a job requiring a degree, not a degree, and/or a low way job? We also want to look at the ratio of men to women finding jobs in the field they majored in.
 
